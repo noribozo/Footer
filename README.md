@@ -1,0 +1,2 @@
+# Footer
+CodeBerry component
